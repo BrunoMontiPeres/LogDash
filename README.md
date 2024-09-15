@@ -31,7 +31,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Product Owner  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/user-attachments/assets/44eb8c5e-6787-4239-8e0f-95e2583d07ac" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Bruno Monti Peres</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-uch%C3%B4as-de-oliveira-b2536a18b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelouchoas)          |
+|  Product Owner  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/user-attachments/assets/44eb8c5e-6787-4239-8e0f-95e2583d07ac" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Bruno Monti Peres</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-monti-peres/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoMontiPeres)          |
 | Scrum Master  |  <a href="https://user-images.githubusercontent.com/142995260/273606204-7e156cbd-5834-46c2-b3de-9a55555f111f.jpg"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/035404d9-f0a8-4f1a-9cb2-88c2b022ada6" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Júlia Victória</p>|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-vit%C3%B3ria-2502b9202/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Juliavitoriasilva)     |
 | Team Member   | <a href="https://user-images.githubusercontent.com/142995260/273607131-51127998-a41a-418b-878e-14ac3e079240.jpg"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/1dcd2d43-7e61-4e08-a1df-16562e5be836" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Daniel Miguel</p>             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-miguel-silva-7492a2248/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/danielmiguel8)        |
 |  Team Member  |   <a href="https://user-images.githubusercontent.com/142995260/273608311-56f0ee9e-3a47-4783-8535-5a30bacfe8dd.jpg"><img src="https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/fe0870d7-741e-42e2-910d-a7b3d8b99cdejpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Emily Job</p>           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emily-job-316851292) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Emilymjob)        |
@@ -48,27 +48,32 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # Objetivo do Projeto
 
-O objetivo deste projeto é otimizar as rotas de três plantas pertencentes à mesma empresa por meio da aplicação de técnicas de pesquisa operacional. Pretende-se desenvolver um modelo que maximize a eficiência logística, minimizando custos e tempo de transporte entre as plantas, garantindo assim uma distribuição mais ágil e econômica dos produtos.
+O presente projeto tem como objetivo mapear as potenciais cargas para movimentação no Aeroporto de São José dos Campos (SJK) com base nos dados de importações e exportações dos municípios que compõem a Região Metropolitana do Vale do Paraíba e Litoral Norte (RMVALE e Litoral Norte) para o ano de 2024. 
 
-Além disso, o projeto visa implementar um modelo matemático que possa ser utilizado para realizar análises de cenários e simulações, permitindo à empresa avaliar o impacto de diferentes estratégias. Isso possibilitará uma abordagem mais proativa na gestão financeira da empresa, permitindo a identificação de oportunidades de maximização de lucros e mitigação de riscos.
+O estudo visa identificar os principais produtos e setores econômicos que possam beneficiar-se do transporte aéreo, otimizando o fluxo de mercadorias e promovendo o desenvolvimento logístico regional
+
+# Justificativa do Projeto
+
+A escolha do Aeroporto de São José dos Campos como foco do estudo justifica-se por sua localização estratégica na RMVALE, um importante polo industrial e tecnológico, bem como sua proximidade ao Litoral Norte. Com a crescente demanda por soluções logísticas eficientes e a necessidade de reduzir o tempo de transporte de cargas, o modal aéreo pode se apresentar como uma alternativa competitiva, especialmente para produtos de alto valor agregado ou de sensibilidade a prazos curtos de entrega. 
+
+No entanto, a subutilização atual do Aeroporto de SJK para movimentação de cargas justifica a necessidade de um mapeamento detalhado das oportunidades de transporte que possam ser aproveitadas para incrementar as operações. Ao identificar os potenciais fluxos de carga na região, o projeto visa proporcionar subsídios para empresas e órgãos governamentais investirem na infraestrutura e operacionalização do transporte aéreo regional.
 
 # Resultado Esperado
 
-O resultado esperado do modelo de otimização utilizando pesquisa operacional é a definição de rotas de transporte mais eficientes entre as três plantas da empresa. Espera-se que o modelo forneça um plano detalhado que minimize os custos totais de transporte, levando em consideração fatores como distância, capacidade dos veículos, tempo de viagem e restrições operacionais.
+Espera-se que o projeto forneça um mapeamento dos produtos mais relevantes para a movimentação de cargas no Aeroporto de SJK, identificando os setores industriais com maior potencial de exportação e importação na RMVALE e no Litoral Norte.
 
-Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, garantindo entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser capaz de adaptar-se a diferentes cenários e condições operacionais, proporcionando flexibilidade para lidar com imprevistos e variações na demanda.
-
+Espera-se contribuir para o desenvolvimento econômico da região, fortalecendo sua posição no mercado logístico e promovendo o crescimento sustentável por meio de uma maior integração com o comércio exterior.
 <br>
 
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 13/03/2024 | Concluído | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_silva130_fatec_sp_gov_br/ETnX0Ta0Ir1Jq5rzc__m6EwBjLeL12nToZpFOzRqGnopqg?e=EAt7Yw) | 
-|01 | 17/04/2024 | Concluído | [Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf) | 
-|02|  08/05/2024| Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15248291/Relatorio.Sprint2.2.pdf) | 
-|03| 29/05/2024 | Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/relatorio_sprint_3.pdf) | 
-|04| 19/06/2024 | Concluído |[Ver Relatório](https://github.com/user-attachments/files/15880161/relatorio.sprint.4.pdf)  | 
-|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 02/09/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/files/17007319/Kick-off.API.1.pptx) | 
+|00 | 23/09/2024 | Concluído | [Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf) | 
+|01|  14/10/2024| Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15248291/Relatorio.Sprint2.2.pdf) | 
+|02| 04/11/2024 | Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/relatorio_sprint_3.pdf) | 
+|03| 25/11/2024 | Concluído |[Ver Relatório](https://github.com/user-attachments/files/15880161/relatorio.sprint.4.pdf)  | 
+
 
 <br>
 
@@ -83,12 +88,9 @@ Sprint | Previsão | Status| Histórico|
 
 # Tecnologias Específicas/Apoio
 
-* 5W2H;
 * GitHub;
 * Jira Software;
 * Power Bi;
-* Python;
-* SQL;
 * Slack;
  # Produto 
   
