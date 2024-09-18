@@ -12,10 +12,9 @@
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Resultado Esperado](#resultado-esperado)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Backlog do Produto](#backlog-do-produto)
 * [Tecnologias Específicas/Apoio](#tecnologias-específicas-apoio)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+
 
 <br>
 
@@ -68,101 +67,21 @@ Espera-se contribuir para o desenvolvimento econômico da região, fortalecendo 
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 02/09/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/files/17007319/Kick-off.API.1.pptx) | 
-|00 | 23/09/2024 | Concluído | [Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024289/Sprint_1.pdf) | 
-|01|  14/10/2024| Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15248291/Relatorio.Sprint2.2.pdf) | 
-|02| 04/11/2024 | Concluído |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/relatorio_sprint_3.pdf) | 
-|03| 25/11/2024 | Concluído |[Ver Relatório](https://github.com/user-attachments/files/15880161/relatorio.sprint.4.pdf)  | 
+|Kick Off | 02/09/2024 | Concluído | [Ver Relatório](https://github.com/toloske/Logistica/blob/main/Arquivo%20Base%20Relato%CC%81rio%20API.docx) | 
+|00 | 23/09/2024 | Concluído | [Ver Relatório](https://github.com/toloske/Logistica/blob/main/Arquivo%20Base%20Relato%CC%81rio%20API.docx) | 
+|01|  14/10/2024| Em progresso 
+|02| 04/11/2024 | Em progresso 
+|03| 25/11/2024 | Em progresso 
 
 
 <br>
-
-# Backlog do produto
-  
-<div align="center">
-    
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a)
-
-</div>
-
 
 # Tecnologias Específicas/Apoio
 
 * GitHub;
 * Jira Software;
 * Power Bi;
-* Slack;
- # Produto 
-  
 
-* Link para acessar o produto: [Click Aqui](https://fatecspgov-my.sharepoint.com/personal/julia_silva130_fatec_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjulia%5Fsilva130%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2Fprevis%C3%A3o1%20%282%29%2Epbix&parent=%2Fpersonal%2Fjulia%5Fsilva130%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments) 
-
-
-### Base de dados
-
-
-* Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
-
-
-![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
-
-* Resultado da Otimização em Python [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/Proposta_de_otmiza%C3%A7%C3%A3o_2024.ipynb)
-
-![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_colab.gif?raw=true)
-
-
-![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
-
-
-![Gravando2024-06-17174724-ezgif com-video-to-gif-converter (1)](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/a11c8a0f-d81d-4244-9527-b07481d477e8)
-
-
-Regras de Negócio
--
-
-Requisitos funcionais 
-- Uma estrutura de banco de dados relacional;
-- Uma tela de Power BI que mostre a produtividade mensal dos veículos (relação entre outputs e inputs);
-- Uma tele Power BI com a evolução dos custos por Km de cada rota, filtrando por fábricas;
-- Uma tele Power BI com a evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
-- Relatórios;
-  
-Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
-- Jira Software
-- 5W2H
-- Slack
-  
-
-## Sprint 1. Concepção
-- [x] Estruturação do GitHub;
-- [x] Desenvolver uma Base de dados em SQL;
-- [x] Desenvolver um Dashboard;
-- [x] Backlog do Produto;
-- [x] Estruturação das tasks no Jira Software;
-- [x] Relatório técnico da Sprint 1;
-
-## Sprint 2. Desenvolvimento do Projeto
-- [x] Relatório técnico da Sprint 2;
-- [x] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente atráves do sistema MySQL;
-- [x] Criar funções matemáticas para medir a produtividade das 3 Fábricas;
-- [x] criar um ambiente de trabalho dentro do python com os dados do SQL;
-
-      
-## Sprint 3 . Implementação
-- [x] Relatório técnico da Sprint 3;
-- [x] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
-- [x] Aplicação do método de transportes para otimização da distribuição;
-- [x] Criação do storytelling;
-
-      
-## Sprint 4. Operacionalização
-- [x] Relatório técnico da Sprint 4;
-- [x] Fazer uma análise dos resultados gerados pelo projeto;
-- [x] Correção de erros gerados para verificar possiveis melhorias;
-- [x] Interligar as ferramentas SQLcom Python e Power BI;
-- [x] Criação do storytelling básico;
 
 # Competências desenvolvidas
 
@@ -176,7 +95,6 @@ Requisitos não funcionais
 | SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Slack | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
