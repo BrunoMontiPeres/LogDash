@@ -82,6 +82,7 @@ Sprint | Previsão | Status| Histórico|
 * Jira Software;
 * Power Bi;
 * Slack;
+* Office
 
 
 # Competências desenvolvidas
