@@ -81,6 +81,7 @@ Sprint | Previsão | Status| Histórico|
 * GitHub;
 * Jira Software;
 * Power Bi;
+* Slack;
 
 
 # Competências desenvolvidas
