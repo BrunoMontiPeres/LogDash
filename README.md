@@ -76,6 +76,8 @@ Sprint | Previsão | Status| Histórico|
 
 <br>
 
+# Backlog do projeto
+
 # Tecnologias Específicas/Apoio
 
 * GitHub;
@@ -94,11 +96,11 @@ Sprint | Previsão | Status| Histórico|
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Slack | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+ 
  
 </details>
 
