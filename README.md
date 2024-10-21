@@ -67,7 +67,7 @@ Espera-se contribuir para o desenvolvimento econômico da região, fortalecendo 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 02/09/2024 | Concluído | [Ver Relatório](https://github.com/toloske/Logistica/blob/main/Arquivo%20Base%20Relato%CC%81rio%20API.docx) | 
-|01 | 30/09/2024 |Em progresso | [Ver Relatório](https://github.com/toloske/Logistica/blob/main/Arquivo%20Base%20Relato%CC%81rio%20API.docx) | 
+|01 | 30/09/2024 |Concluído | [Ver Relatório](https://github.com/user-attachments/assets/4548aa93-a4ee-4bc7-abf7-d7879e0da1a9) | 
 |02|  14/10/2024| Em progresso 
 |03| 04/11/2024 | Em progresso 
 |04| 25/11/2024 | Em progresso 
