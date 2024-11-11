@@ -65,10 +65,10 @@ Espera-se contribuir para o desenvolvimento econômico da região, fortalecendo 
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 02/09/2024 | Concluído | [Ver Relatório](https://github.com/toloske/Logistica/blob/main/Arquivo%20Base%20Relato%CC%81rio%20API.docx) | 
-|01 | 30/09/2024 |Concluído | [Ver Relatório](https://github.com/user-attachments/files/17467461/APRESENTACAO.-.S0.pptx) | 
-|02|  16/10/2024| Concluído | [Ver Relatório](https://github.com/user-attachments/assets/4548aa93-a4ee-4bc7-abf7-d7879e0da1a9) | 
-|03| 04/11/2024 | Em progresso 
+|Kick Off| 02/09/2024 | Concluído | [Ver Relatório](https://github.com/toloske/Logistica/blob/main/Arquivo%20Base%20Relato%CC%81rio%20API.docx) | 
+|01| 30/09/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/files/17467461/APRESENTACAO.-.S0.pptx) | 
+|02| 16/10/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/assets/4548aa93-a4ee-4bc7-abf7-d7879e0da1a9) | 
+|03| 04/11/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/assets/3fc099b8-ab2c-4451-9dd7-eec501587c7d) | 
 |04| 25/11/2024 | Em progresso 
 
 
