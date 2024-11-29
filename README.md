@@ -111,5 +111,5 @@ Sprint | Previsão | Status| Histórico|
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
