@@ -92,7 +92,7 @@ Sprint | Previsão | Status| Histórico|
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
