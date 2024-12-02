@@ -62,6 +62,13 @@ A escolha do Aeroporto de São José dos Campos como foco do estudo justifica-se
 
 No entanto, a subutilização atual do Aeroporto de SJK para movimentação de cargas justifica a necessidade de um mapeamento detalhado das oportunidades de transporte que possam ser aproveitadas para incrementar as operações. Ao identificar os potenciais fluxos de carga na região, o projeto visa proporcionar subsídios para empresas e órgãos governamentais investirem na infraestrutura e operacionalização do transporte aéreo regional.
 
+## Tecnologias Utilizadas
+
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos/Tecnologias Utilizadas.png" width="50%" height="50%">
+<p align="center">
+
 # Resultado Esperado
 
 Espera-se que o projeto forneça um mapeamento dos produtos mais relevantes para a movimentação de cargas no Aeroporto de SJK, identificando os setores industriais com maior potencial de exportação e importação na RMVALE e no Litoral Norte.
