@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=LogDash&reversal=false&textBg=false&fontColor=000000"/>
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=9B1315&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&lines=BEM+VINDO(A)+%C3%80+LOGDASH+!;%C3%89+UMA+HONRA+T%C3%8A-LO(A)+AQUI+!)
 
 # Índice
 
