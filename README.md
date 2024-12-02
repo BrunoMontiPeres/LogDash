@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0004&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=9B1315FF&size=38&center=true&vCenter=true&width=1200&lines=BEM+VINDO(A)+À+LOGDASH!;É+UMA+HONRA+TÊ-LO(A)+AQUI!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=003082&size=40&center=true&vCenter=true&width=1200&lines=BEM+VINDO(A)+À+LOGDASH!;É+UMA+HONRA+TÊ-LO(A)+AQUI!)](https://git.io/typing-svg)
 
 # Índice
 
