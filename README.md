@@ -2,6 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=0042b2&size=40&center=true&vCenter=true&width=1200&lines=BEM+VINDO(A)+À+LOGDASH!;É+UMA+HONRA+TÊ-LO(A)+AQUI!)](https://git.io/typing-svg)
 
+# Quem somos?
+*Driving the future of logistics! | Conduzindo o futuro da logística!*
+
+Bem-vindo(a) à LogDash, onde a inovação e a eficiência transformam o futuro da logística em realidade. Somos uma empresa dedicada a proporcionar soluções logísticas ágeis e precisas, utilizando as mais avançadas tecnologias para otimizar a movimentação de cargas e garantir resultados excepcionais. Nosso compromisso com a excelência nos permite integrar inteligência e agilidade nos processos, sempre com foco na satisfação de nossos clientes.
+
+Com uma equipe altamente qualificada e tecnologias de ponta, como Power BI e Scrum, a LogDash busca melhorar continuamente os fluxos logísticos, identificando rotas estratégicas e otimizando operações para criar um sistema mais eficiente e conectado. Nossa missão é conduzir o futuro da logística de maneira sustentável e eficaz, transformando cada desafio em uma oportunidade de crescimento.
+
+>Logo
+<div id="top"></div>
+<p align="right side">
+      <img src="LogDash - Logo.png" width="30%" height="30%">
+<p align="center">
+
 # Índice
 
 * [Projeto](#projeto-api)
