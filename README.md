@@ -30,10 +30,7 @@ Com uma equipe altamente qualificada e tecnologias de ponta, como Power BI e Scr
 
 
 # Projeto (API)
-Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Minimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
-
+O Projeto LogDash aplica a Metodologia de Aprendizagem por Projeto Integrador (API) com foco na solução de problemas reais através da metodologia ágil SCRUM. O objetivo é desenvolver competências práticas, criando soluções logísticas inovadoras e eficientes, com a entrega de um Mínimo Produto Viável (MVP) que otimize processos reais no setor de logística.
 <br>
 
 
