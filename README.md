@@ -1,4 +1,4 @@
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0004&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0004&section=header)"/>
+[<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0004&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0004&section=header)"/>](https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0004&section=header&fontAlign=30&descAlign=20&descAlignY=20&fontAlignY=30)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=LogDash&reversal=false&textBg=false&fontColor=000000"/>
 
