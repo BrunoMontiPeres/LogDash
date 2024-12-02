@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=LogDash&reversal=false&textBg=false&fontColor=000000"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=2000&color=9B1315&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=BEM+VINDO(A)+%C3%80+LOGDASH+!;%C3%89+UMA+HONRA+T%C3%8A-LO(A)+AQUI!)](https://git.io/typing-svg)
+                    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=2000&color=9B1315&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=BEM+VINDO(A)+%C3%80+LOGDASH+!;%C3%89+UMA+HONRA+T%C3%8A-LO(A)+AQUI!)](https://git.io/typing-svg)
 
 # Índice
 
