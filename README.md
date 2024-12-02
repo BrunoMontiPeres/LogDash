@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0004&height=120&section=header"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=LogDash&reversal=false&textBg=false&fontColor=000000"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=9B1315FF&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO(A)+À+LOGDASH!;ESTAMOS+FELIZES+EM+TER+VOCÊ+AQUI!)](https://git.io/typing-svg)
 
 # Índice
