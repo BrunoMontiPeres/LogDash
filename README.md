@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0042b2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=0042b2&size=40&center=true&vCenter=true&width=1200&lines=BEM+VINDO(A)+À+LOGDASH!;É+UMA+HONRA+TÊ-LO(A)+AQUI!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=0042b2&size=40&center=true&vCenter=true&width=1200&lines=BEM+VINDO(A)+À+LOGDASH+!;É+UMA+HONRA+TÊ-LO(A)+AQUI!)](https://git.io/typing-svg)
 
 # Quem somos?
 *Driving the future of logistics! | Conduzindo o futuro da logística!*
