@@ -66,7 +66,7 @@ No entanto, a subutilização atual do Aeroporto de SJK para movimentação de c
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos/Tecnologias Utilizadas.png" width="50%" height="50%">
+      <img src="Tecnologias Utilizadas.png" width="50%" height="50%">
 <p align="center">
 
 # Resultado Esperado
@@ -91,15 +91,6 @@ Sprint | Previsão | Status| Histórico|
 # Backlog do projeto
 
 ![product backlog](https://github.com/user-attachments/assets/6886e58b-9e8e-4c6c-902b-b2057407b97a)
-
-# Tecnologias Específicas/Apoio
-
-* GitHub;
-* Jira Software;
-* Power Bi;
-* Slack;
-* Office
-
 
 # Competências desenvolvidas
 
