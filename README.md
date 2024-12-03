@@ -66,7 +66,7 @@ No entanto, a subutilização atual do Aeroporto de SJK para movimentação de c
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Tecnologias Utilizadas.png" width="50%" height="50%">
+      <img src="Arquivos/Tecnologias Utilizadas.png" width="50%" height="50%">
 <p align="center">
 
 # Resultado Esperado
