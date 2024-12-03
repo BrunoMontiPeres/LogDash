@@ -54,7 +54,7 @@ O Projeto LogDash aplica a Metodologia de Aprendizagem por Projeto Integrador (A
 
 O presente projeto tem como objetivo mapear as potenciais cargas para movimentação no Aeroporto de São José dos Campos (SJK) com base nos dados de importações e exportações dos municípios que compõem a Região Metropolitana do Vale do Paraíba e Litoral Norte (RMVALE e Litoral Norte) para o ano de 2024. 
 
-O estudo visa identificar os principais produtos e setores econômicos que possam beneficiar-se do transporte aéreo, otimizando o fluxo de mercadorias e promovendo o desenvolvimento logístico regional
+O estudo visa identificar os principais produtos e setores econômicos que possam beneficiar-se do transporte aéreo, otimizando o fluxo de mercadorias e promovendo o desenvolvimento logístico regional.
 
 # Justificativa do Projeto
 
@@ -100,11 +100,11 @@ Sprint | Previsão | Status| Histórico|
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Slack | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Slack | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
  
  
 </details>
@@ -118,6 +118,6 @@ Sprint | Previsão | Status| Histórico|
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Autonomia | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
