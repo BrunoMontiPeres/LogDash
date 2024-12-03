@@ -83,7 +83,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 30/09/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/files/17467461/APRESENTACAO.-.S0.pptx) | 
 |02| 16/10/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/assets/4548aa93-a4ee-4bc7-abf7-d7879e0da1a9) | 
 |03| 04/11/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/assets/3fc099b8-ab2c-4451-9dd7-eec501587c7d) | 
-|04| 25/11/2024 | Concluido | [Ver Relatório]
+|04| 25/11/2024 | Concluido | [Ver Relatório](https://github.com/user-attachments/assets/45c33f58-43de-413a-8066-251ba592a54c) |
 
 
 <br>
