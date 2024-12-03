@@ -12,7 +12,7 @@ Com uma equipe altamente qualificada e tecnologias de ponta, como Power BI e Scr
 >Logo
 <div id="top"></div>
 <p align="right side">
-      <img src="LogDash - Logo.png" width="30%" height="30%">
+      <img src="Arquivos/LogDash - Logo.png" width="30%" height="30%">
 <p align="center">
 
 # Índice
