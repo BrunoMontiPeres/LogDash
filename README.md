@@ -85,6 +85,7 @@ Sprint | Previsão | Status| Histórico|
 |03| 04/11/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/assets/3fc099b8-ab2c-4451-9dd7-eec501587c7d) | 
 |04| 25/11/2024 | Concluido | [Ver Relatório](https://github.com/user-attachments/assets/45c33f58-43de-413a-8066-251ba592a54c) |
 |Feira de Soluções| 12/12/2024 | - | [Ver Relatório]
+|Relatorio Escrito| 25/11/2024 | Concluido | [Ver Relatório](https://github.com/BrunoMontiPeres/LogDash/blob/main/Arquivos/AN%C3%81LISE%20DO%20TRANSPORTE%20DE%20CARGASf.pdf)
 
 
 <br>
